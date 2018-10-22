@@ -3,7 +3,7 @@
 pipeline {   
     agent {
         node {
-            label 'arm-microhal-none-eabi'
+            label 'arm-microhal-eabi-gcc'
         }    
     }   
 
