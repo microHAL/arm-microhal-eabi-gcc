@@ -1,1 +1,1 @@
-# arm-microhal-none-eabi
+# arm-microhal-eabi-gcc
